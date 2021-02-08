@@ -14,7 +14,7 @@ export default function MyWork() {
                     <div className="isotope-wrapper">
                         <form action="#" method="post" className="isotope-toolbar">
                             <label>
-                                <input type="radio" datatype="*" name="isotope-filter" />
+                                <input type="radio" datatype="*"checked name="isotope-filter" />
                                 <span>All</span>
                             </label>
                             <label>

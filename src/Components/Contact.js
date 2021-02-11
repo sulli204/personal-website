@@ -4,7 +4,7 @@ export default function Contact() {
     return (
         <section class="section contact-me" data-section="section4">
             <div class="container">
-                <div class="section-heading">
+                <div class="section-heading" id="contact">
                     <h2>Contact Me</h2>
                     <div class="line-dec"></div>
                     <span>Fusce eget nibh nec justo interdum condimentum. Morbi justo ex, efficitur at ante ac, tincidunt maximus ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>

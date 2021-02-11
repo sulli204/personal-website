@@ -4,7 +4,7 @@ export default function MyWork() {
     return (
         <section className="section my-work" data-section="section3">
             <div className="container">
-                <div className="section-heading">
+                <div className="section-heading" id="works">
                     <h2>My Work</h2>
                     <div className="line-dec"></div>
                     <span>Aenean sollicitudin ex mauris, lobortis lobortis diam euismod sit amet.

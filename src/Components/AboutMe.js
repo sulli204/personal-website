@@ -4,7 +4,7 @@ export default function AboutMe() {
     return (
         <section className="section about-me" data-section="section1">
             <div className="container">
-                <div className="section-heading">
+                <div className="section-heading" id="about">
                     <h2>About Me</h2>
                     <div className="line-dec"></div>
                     <span>Hi, I'm Patrick Sullivan! I'm a recent graduate from Purdue University

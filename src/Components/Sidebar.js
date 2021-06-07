@@ -11,7 +11,7 @@ export default function Sidebar() {
                 <div className="container">
                     <div className="image">
                         <a href="#">
-                            <img src={process.env.PUBLIC_URL + "template_reflux/assets/images/patrick-square.jpg"} alt="patrick-image" />
+                            <img src={process.env.PUBLIC_URL + "template_reflux/assets/images/pat-rec.jpg"} alt="patrick-image" />
                         </a>
                     </div>
                     <div className="author-content">
@@ -28,7 +28,7 @@ export default function Sidebar() {
                                 <Link to="skills" spy={true} smooth={true}>My Skills</Link>
                             </li>
                             <li>
-                                <Link to="works" spy={true} smooth={true}>My Works</Link>
+                                <Link to="works" spy={true} smooth={true}>Experience</Link>
                             </li>
                             <li>
                                 <Link to="contact" spy={true} smooth={true}>Contact Me</Link>
@@ -53,7 +53,7 @@ export default function Sidebar() {
                                 </a>
                             </li>
                             <li>
-                                <a href="https://soundcloud.com/perint">
+                                <a href="https://soundcloud.com/pat_sul">
                                     <i className="fa fa-soundcloud"></i>
                                 </a>
                             </li>

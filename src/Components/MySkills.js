@@ -47,11 +47,44 @@ export default function MySkills() {
                         <div class="service-item">
                             <div class="fourth-service-icon service-icon"></div>
                             <h4>Clear Communication</h4>
-                            <p>I always placed an emphasis on making meetings and clearly writing out my ideas, my issues, and possible solutions
+                            <p>I always place an emphasis on making meetings and clearly writing out my ideas, my issues, and possible solutions
                             that needed to be addressed.  Having that in the midst of a project and sprint was paramount for us to be successful.
                             It helped the team as a whole to clear up any of their problems as well, in the case that we had dependencies on
                             each other.
                             </p>
+                        </div>
+                    </div>
+                    <h2>Languages and Frameworks</h2>
+                    <div class="container">
+                        <h4>ReactJS</h4>
+                        <div class="container">
+
+                            <div class="skills react">Intermediate</div>
+
+                        </div>
+                        <h4>Python</h4>
+                        <div class="container">
+                            <div class="skills python">Intermediate</div>
+                        </div>
+                        <h4>Node</h4>
+                        <div class="container">
+                            <div class="skills node">Intermediate</div>
+                        </div>
+                        <h4>Java</h4>
+                        <div class="container">
+                            <div class="skills java">Intermediate</div>
+                        </div>
+                        <h4>C/C++</h4>
+                        <div class="container">
+                            <div class="skills c">Intermediate</div>
+                        </div>
+                        <h4>Ruby on Rails</h4>
+                        <div class="container">
+                            <div class="skills ruby">Beginner</div>
+                        </div>
+                        <h4>Angular</h4>
+                        <div class="container">
+                            <div class="skills angular">Beginner</div>
                         </div>
                     </div>
                 </div>

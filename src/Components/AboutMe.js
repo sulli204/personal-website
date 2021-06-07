@@ -15,7 +15,7 @@ export default function AboutMe() {
                     <div className="row">
                         <div className="col-md-6">
                             <div className="left-image">
-                                <img src={process.env.PUBLIC_URL + 'template_reflux/assets/images/left-image.jpg'} alt="left-image"></img>
+                                <img src={process.env.PUBLIC_URL + 'template_reflux/assets/images/purdue.png'} alt="left-image"></img>
                             </div>
                         </div>
                         <div className="col-md-6">
@@ -27,9 +27,6 @@ export default function AboutMe() {
                                     is what was so appealing to me.
                                 </p>
                                 {/* I facilitated the data transfer from Taxko - Club Automation to Racquet Desk for Purdue University Athletics - Schwartz Tennis Center. */}
-                                <div className="white-button">
-                                    <a href="github.com">Look Here</a>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -39,18 +36,22 @@ export default function AboutMe() {
                         <div className="col-md-6">
                             <div className="left-text">
                                 <h4>Involvment With the Arts</h4>
-                                <p>Outside of my main studies, I had a background in acting and musical performance.  I decided to also 
-                                    further my education in acting and music theory.  A story to me is best expressed visually, audibly, 
-                                    or a combination of the two.  The arts hold a large space in my heart.
+                                <p>Outside of my main studies, I have a background in acting and musical performance.  I decided to 
+                                    further my education in acting and music theory at my time at Purdue.  I found it difficult to 
+                                    get that kind of outlet in my main studies.  </p>
+                                    
+                                    <div className="row"/>
+                                    
+                                    <p>A story to me is best expressed visually, audibly, 
+                                    or a combination of the two.  The arts hold a large space in my heart.  I will always support and 
+                                    appreciate people's genuine, artistic visions and aesthetics.
                                 </p>
                             </div>
-                            <div className="white-button">
-                                <a href="github.com">Read More</a>
-                            </div>
+                            
                         </div>
                         <div className="col-md-6">
                             <div className="right-image">
-                                <img src={process.env.PUBLIC_URL + 'template_reflux/assets/images/right-image.jpg'} alt="left-image"></img>
+                                <img src={process.env.PUBLIC_URL + 'template_reflux/assets/images/prod.webp'} alt="left-image"></img>
                             </div>
                         </div>
                     </div>
@@ -58,21 +59,20 @@ export default function AboutMe() {
                 <div className="right-image-post">
                     <div className="row">
                         <div className="col-md-6">
-                            <div className="left-text">
+                            <div className="right-text">
                                 <h4>Passions Outside of School</h4>
                                 <p>Beyond my studies, I spent and still spend a lot of time into composing and producing music under
-                                    a pseudonym, Perint.  Typically, I make electronic music with heavy influences from Porter Robinson,
-                                    Madeon, Laxcity, and Instupendo.  Also, I love creating visual arts! Specifically 3D rendering through
-                                    Blender and effects through Adobe After Effects.
+                                    a pseudonym, patsul.  Typically, I make electronic music with heavy influences from Porter Robinson,
+                                    Madeon, Laxcity, and Instupendo.  
                                 </p>
-                            </div>
-                            <div className="white-button">
-                                <a href="github.com">Read More</a>
+                                <div className="row"/>
+                                <p>Also, I love creating visual arts! I use Blender for 3D rendering, Adobe Premiere Pro for composition, and Adobe After
+                                    Effects.  Many of my works are hosted on my personal Instagram: <a href="https://www.instagram.com/funwithsullivan/"><b>@funwithsullivan</b></a>.</p>
                             </div>
                         </div>
                         <div className="col-md-6">
-                            <div className="right-image">
-                                <img src={process.env.PUBLIC_URL + 'template_reflux/assets/images/right-image.jpg'} alt="left-image"></img>
+                            <div className="left-image">
+                                <img src={process.env.PUBLIC_URL + 'template_reflux/assets/images/flstudio.jpg'} alt="left-image"></img>
                             </div>
                         </div>
                     </div>

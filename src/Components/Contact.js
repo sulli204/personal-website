@@ -45,7 +45,7 @@ class Contact extends React.Component {
                         <span>If you would like to contact me, please fill out this form below!</span>
                     </div>
                     <div class="row">
-                        <div class="right-content">
+                        <div class="col-md-12">
                             <div class="container">
                                 <form id="contact">
                                     <div class="row">

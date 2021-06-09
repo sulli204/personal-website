@@ -70,7 +70,7 @@ export default function MyWork() {
                                 attendance taking and quiz taking.
                             </p>
                             <li style={{ display: "list-item", listStyle: "circle", paddingBottom: "10px", fontSize: "18px", fontWeight: "bold" }}>
-                                InClass
+                                Mealtime
                             </li>
                             <p>
                                 Laid out a system in which users could track and plan their nutritional intake with meaningful data
